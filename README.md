@@ -39,7 +39,7 @@ We use PNG files for images. Use these sizes for images,
     
 Esri shares content to help you get moving so take a look at these. Find more at http://resources.esri.com or http://www.esri.com/videos.
 
-<a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Designing Your Site</a><br>
+<a href="https://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-hub-site.htm">Designing Your Site</a><br>
 <a href="http://www.esri.com/videos/watch?videoid=EBwNntOx0n0&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=customizing-open-data">Customizing Open Data</a><br>
 <a href="https://www.arcgis.com/home/item.html?id=f99fb5f7c91f4424b6ae1ca90678f58a">Create a Cascade Story Map</a><br>
 <a href="https://www.arcgis.com/home/item.html?id=da029c7670514be1b5a10b60825cd8da">Create a Story Map Journal</a>
